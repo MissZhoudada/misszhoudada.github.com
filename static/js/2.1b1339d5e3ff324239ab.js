@@ -1,0 +1,2 @@
+webpackJsonp([2],{WHeP:function(t,e,s){"use strict";Object.defineProperty(e,"__esModule",{value:!0});var n={props:["start"],methods:{goNext:function(){var t=Number(this.start)+1;this.$router.push({path:"page7?s="+t})}}},r={render:function(){var t=this.$createElement,e=this._self._c||t;return e("div",[e("div",{staticClass:"content"},[this._v("\n      page6\n      "),e("button",{on:{click:this.goNext}},[this._v("next page7")])])])},staticRenderFns:[]},i=s("C7Lr")(n,r,!1,null,null,null);e.default=i.exports}});
+//# sourceMappingURL=2.1b1339d5e3ff324239ab.js.map
